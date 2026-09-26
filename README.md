@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently working on projects combining computer science and biotech
+👯 I'm looking to collaborate on open-source tools in bioinformatics or CS
+🤝 I'm looking for help with breaking into the biotech + tech space
+🌱 I'm currently learning new tools to bridge CS and biology
+
 
 
 ## 🌐 Socials:
